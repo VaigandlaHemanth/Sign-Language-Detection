@@ -1,0 +1,13 @@
+# Sign Language Detection dependencies
+# Python >= 3.9
+
+# Landmark-based models (logicfin / randomfin / svmfin)
+mediapipe
+opencv-python
+scikit-learn
+numpy
+matplotlib
+
+# CNN model (american.ipynb)
+tensorflow>=2.10
+pillow
